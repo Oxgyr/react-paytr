@@ -1,0 +1,30 @@
+{
+  "name": "react-paytr",
+  "version": "0.1.0",
+  "description": "React Wrapper for Paytr",
+  "main": "build/index.js",
+  "repository": "https://github.com/ubeytdemirr/react-paytr.git",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo 'testing...'"
+  },
+  "keywords": [
+    "react",
+    "wrapper",
+    "paytr",
+    "payment"
+  ],
+  "author": "Ubeyt Demir",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^16.9.53",
+    "public-ip": "^4.0.2",
+    "react": "^17.0.0",
+    "typescript": "^4.0.3",
+    "uuidv4": "^6.2.4"
+  },
+  "devDependencies": {
+    "@types/public-ip": "^3.1.0",
+    "@types/uuidv4": "^5.0.0"
+  }
+}
