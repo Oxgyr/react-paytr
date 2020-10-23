@@ -1,6 +1,6 @@
 {
   "name": "react-paytr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React Wrapper for Paytr",
   "main": "build/index.js",
   "repository": "https://github.com/ubeytdemirr/react-paytr.git",
